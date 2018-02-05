@@ -1,2 +1,3 @@
 node{
-echo Þhello worldÞ}
+echo "hello world"
+}
